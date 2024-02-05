@@ -1,4 +1,4 @@
-# cvproject
+# cvproject / Spring'24 ML Club project
 
 A new Flutter project.
 
