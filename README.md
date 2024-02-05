@@ -1,6 +1,8 @@
 # cvproject / Spring'24 ML Club project
 
-A new Flutter project.
+**Documentation:** https://docs.google.com/document/d/1aCl9se2UJhsyUuLLYdseCwtHPLo78a8zkqnmLcjY5Vs/edit?usp=sharing
+
+Computer Vision project
 
 ## Getting Started
 
